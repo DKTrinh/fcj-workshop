@@ -1,0 +1,20 @@
+---
+title: "Posted Blogs"
+date: 2026-07-13
+weight: 3
+chapter: false
+pre: " <b> 3. </b> "
+---
+
+ 
+
+This section lists and introduces the blogs that you have posted to [AWS Study Group](https://www.facebook.com/groups/awsstudygroupfcj). For example:
+
+### [Blog 1 - SESSION POLICIES IN AMAZON EKS POD IDENTITY](3.1-Blog1/)
+This blog introduces the newly added session policies feature in Amazon EKS Pod Identity, which allows you to narrow IAM permissions flexibly and precisely for each pod without needing to create multiple separate IAM roles. This is an important step forward that helps apply the principle of least privilege more effectively in large-scale Kubernetes environments.
+
+### [Blog 2 - DEPLOYING DOCKER APPLICATIONS ON AWS ECS WITH FARGATE](3.2-Blog2/)
+This blog explains how to package a web application into a Docker image and deploy it automatically on AWS through Amazon ECS in combination with AWS Fargate. This serverless architecture helps developers avoid managing or maintaining virtual server infrastructure (EC2), thereby optimizing both project delivery time and operational cost.
+
+### [Blog 3 - STORING AND DISTRIBUTING A REACT APPLICATION WITH AWS S3 AND CLOUDFRONT](3.3-Blog3/)
+This blog analyzes an optimal solution for hosting a Single Page Application such as React on AWS. By combining Amazon S3 Static Website Hosting with the Amazon CloudFront content delivery network, the application can load extremely quickly across the globe while also benefiting from international-standard SSL security.
